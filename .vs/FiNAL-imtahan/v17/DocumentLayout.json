@@ -3,103 +3,99 @@
   "WorkspaceRootPath": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Migrations\\20240524044014_CreateTeamtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FiNAL-imtahan\\Migrations\\20240524044014_CreateTeamtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\team\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|c:\\users\\ca.r214.07\\desktop\\final-imtahan\\final-imtahan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\final-imtahan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4006EF-634F-4827-BD8C-910343A2B8E5}|FiNAL-imtahan\\FiNAL-imtahan.csproj|solutionrelative:final-imtahan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,24 +106,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 22,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "FiNAL-imtahan\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAABkAAAAAAAAAAAAYwEIAAAAAAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T05:34:15.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Views\\Account\\Register.cshtml",
@@ -140,46 +144,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\ViewModels\\Account\\LoginVM.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\ViewModels\\Account\\LoginVM.cs",
               "RelativeToolTip": "FiNAL-imtahan\\ViewModels\\Account\\LoginVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T05:23:52.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\ViewModels\\Account\\RegisterVM.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\ViewModels\\Account\\RegisterVM.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\ViewModels\\Account\\RegisterVM.cs",
               "RelativeToolTip": "FiNAL-imtahan\\ViewModels\\Account\\RegisterVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T05:20:17.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FiNAL-imtahan\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA1wC0AAAAeAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T05:16:55.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Update.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Update.cshtml",
@@ -187,12 +191,11 @@
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Update.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:09:03.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T05:09:03.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Create.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Create.cshtml",
@@ -200,12 +203,11 @@
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:04:24.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T05:04:24.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Index.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Index.cshtml",
@@ -213,25 +215,24 @@
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Views\\Team\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:51:01.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:51:01.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "TeamController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Controllers\\TeamController.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Controllers\\TeamController.cs",
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Controllers\\TeamController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwF4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T04:50:49.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
@@ -239,38 +240,37 @@
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AQIAABYBAAAAAAAAAADwvzQBAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:44:32.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:44:32.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Controllers\\DashboardController.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T04:44:26.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T04:43:59.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Views\\_ViewStart.cshtml",
@@ -278,12 +278,11 @@
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:43:47.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:43:47.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
@@ -291,12 +290,11 @@
               "RelativeToolTip": "FiNAL-imtahan\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:43:35.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:43:35.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\ScaffoldingReadMe.txt",
@@ -309,20 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20240524044014_CreateTeamtable.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Migrations\\20240524044014_CreateTeamtable.cs",
-              "RelativeDocumentMoniker": "FiNAL-imtahan\\Migrations\\20240524044014_CreateTeamtable.cs",
-              "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Migrations\\20240524044014_CreateTeamtable.cs",
-              "RelativeToolTip": "FiNAL-imtahan\\Migrations\\20240524044014_CreateTeamtable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:40:14.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\DAL\\AppDbContext.cs",
@@ -330,25 +315,24 @@
               "RelativeToolTip": "FiNAL-imtahan\\DAL\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:30:22.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:30:22.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 7,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Models\\Team.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Models\\Team.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Models\\Team.cs",
               "RelativeToolTip": "FiNAL-imtahan\\Models\\Team.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T04:29:23.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Models\\User.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Models\\User.cs",
@@ -356,12 +340,11 @@
               "RelativeToolTip": "FiNAL-imtahan\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:29:08.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:29:08.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\appsettings.json",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\appsettings.json",
@@ -369,12 +352,11 @@
               "RelativeToolTip": "FiNAL-imtahan\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-24T04:22:40.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:22:40.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Views\\_ViewImports.cshtml",
@@ -382,38 +364,37 @@
               "RelativeToolTip": "FiNAL-imtahan\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:18:27.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:18:27.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FiNAL-imtahan\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T04:18:13.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Program.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Program.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Program.cs",
               "RelativeToolTip": "FiNAL-imtahan\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAALAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T04:18:06.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Views\\Home\\Index.cshtml",
@@ -421,29 +402,20 @@
               "RelativeToolTip": "FiNAL-imtahan\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAKUAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:18:00.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T04:18:00.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FiNAL-imtahan\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ca.r214.07\\Desktop\\FiNAL-imtahan\\FiNAL-imtahan\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FiNAL-imtahan\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T04:17:30.553Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

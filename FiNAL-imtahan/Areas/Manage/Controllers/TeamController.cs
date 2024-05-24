@@ -1,9 +1,11 @@
 ﻿using FiNAL_imtahan.DAL;
 using FiNAL_imtahan.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FiNAL_imtahan.Areas.Manage.Controllers
 {
+    [Authorize]
     [Area("Manage")]
     public class TeamController : Controller
     {

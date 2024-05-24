@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace FiNAL_imtahan.Areas.Manage.Controllers
 {
+    [Authorize]
     [Area("Manage")]
     public class DashboardController : Controller
     {

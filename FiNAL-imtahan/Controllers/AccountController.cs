@@ -69,5 +69,12 @@ namespace FiNAL_imtahan.Controllers
              return RedirectToAction("Index", "Home");
 
         }
+        public async Task<IActionResult> LogOut()
+        {
+            await _signInManager.SignOutAsync();
+
+            return RedirectToAction("Index", "Home");
+        }
+
     }
 }
